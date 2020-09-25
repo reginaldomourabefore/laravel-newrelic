@@ -1,5 +1,5 @@
 {
-    "name":              "reginaldomourabefore/laravel-newrelic",
+    "name":              "intouch/laravel-newrelic",
     "type":              "library",
     "keywords":          ["newrelic", "new relic", "laravel"],
     "homepage":          "https://github.com/In-Touch/laravel-newrelic",
@@ -12,7 +12,7 @@
         }
     ],
     "require":  {
-        "php":                ">=7.2",
+        "php": ">=7.2",
         "illuminate/support": "7.*",
         "intouch/newrelic":   "^2.0"
     },
